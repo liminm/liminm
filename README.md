@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Limin 👋
 
-<!--
-**liminm/liminm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I'm a passionate developer with a strong focus on back-end technologies and a keen interest in Machine Learning.  
+💻 I love to work with Python, FastAPI, and Django but I'm always open to learning new stacks!  
+🧑🏻‍🎓 I'm constantly driven to learn and improve my skills, always on the lookout for new challenges.  
+🤝 I'm open to new collaborations, exciting projects, and opportunities to contribute.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies and Skills
+
+![Python]([https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54))
+
+## 🌍 Let's Connect
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/liminmalek/).
+
+Thanks for stopping by, happy coding! 🎉
