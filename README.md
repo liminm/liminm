@@ -8,7 +8,7 @@
 
 ## Technologies and Skills
 
-![Python]([https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54))
+![Python]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54])
 
 ## 🌍 Let's Connect
 
